@@ -1,0 +1,37 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    font-size: 16px;
+}
+
+table {
+    padding: 2%;
+}
+
+caption {
+    background-color: grey;
+    height: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1.2em;
+    color: #fff;
+}
+
+label {
+    color: #00f;
+    font-weight: 600;
+}
+
+.button {
+    width: 60px;
+    height: 25px;
+    cursor: pointer;
+    background-color: #00f;
+    color: white;
+    border-radius: 5px;
+}
